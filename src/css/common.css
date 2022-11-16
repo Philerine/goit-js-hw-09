@@ -16,3 +16,39 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.field {
+  display: inline-grid;
+}
+
+input {
+  border: 2px solid rgb(64, 136, 243);
+  padding: 4px 8px;
+  text-align: center;
+  font-size: 20px;
+  color: rgb(64, 136, 243);
+}
+
+button {
+  border: 2px solid rgb(64, 136, 243);
+  padding: 4px 8px;
+  text-align: center;
+  font-size: 20px;
+}
+
+span {
+  margin-right: 25px;
+}
+
+.value {
+  font-weight: 800;
+  text-align: center;
+  font-size: 35px;
+  color: rgb(64, 136, 243);
+}
+
+.label {
+  font-weight: 600;
+  font-size: 20px;
+  color: rgb(64, 136, 243);
+}
